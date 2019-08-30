@@ -34,4 +34,3 @@ public class InstanceOFTutorial{
       System.out.println(count(mylist));
    }
 }
-
